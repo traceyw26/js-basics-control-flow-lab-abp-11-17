@@ -26,3 +26,7 @@ function switchOnCharmFromTip(tip) {
   //generous - Thank you so much.
   //not as generous - Thank you.
   //anything else - Bye.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 807df7e0093eda1c9b640ad17e9a0eed3f580c6d
